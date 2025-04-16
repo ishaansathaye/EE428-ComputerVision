@@ -175,3 +175,4 @@ cython_debug/
 
 *.DS_Store
 /homework/hw0/frames
+/labs/lab3-1/images
