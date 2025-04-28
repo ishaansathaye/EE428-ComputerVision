@@ -178,3 +178,4 @@ cython_debug/
 /labs/lab3-1/images
 *.jpg
 *.DNG
+*.png
