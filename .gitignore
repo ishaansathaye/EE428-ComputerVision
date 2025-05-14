@@ -180,3 +180,6 @@ cython_debug/
 *.DNG
 *.png
 *.mov
+/homework/hw3/queries
+/homework/hw3/Childrens-Books
+/homework/hw3/extra-queries
