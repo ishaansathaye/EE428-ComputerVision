@@ -184,3 +184,5 @@ cython_debug/
 /homework/hw3/Childrens-Books
 /homework/hw3/extra-queries
 /labs/lab7-2/archive
+/labs/lab8-2/archive
+/labs/lab8-2/best_mlp_weights.weights.h5
